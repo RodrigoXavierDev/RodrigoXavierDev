@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src=""  />
-
 ###
 
 <div align="left">
@@ -60,8 +58,3 @@
 
 ###
 
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
